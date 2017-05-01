@@ -1,11 +1,21 @@
 .image{
-	max-width: 45%;
-	display: block;
+	max-width: 80%;
+	
 }
+body{
+	background-color: #b8b8b9}
+
 
 header{
-	background:#24292e;
+	background:#cd2b49
 }
 .hhh{
 	color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+	h1{
+		color: ;
+	}
+
 }
